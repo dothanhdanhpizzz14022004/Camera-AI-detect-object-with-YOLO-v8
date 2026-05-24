@@ -8,4 +8,4 @@ Complie and Upload Sketch_32.1_CameraWebServer.ino
 Step 2:
 Run Webserver by paste the IP Address (the camera's parameters can be adjusted)
 Step 3:
-Paste IP Address on 
+Replace the URL with the IP address and run it.
