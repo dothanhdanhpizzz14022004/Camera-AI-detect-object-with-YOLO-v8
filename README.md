@@ -4,7 +4,8 @@ Download 3 Files
 - [yolov3.cfg](https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg)
 - [yolov3.weights](https://pjreddie.com/media/files/yolov3.weights)
 # AI Object Detection Camera System
-Click to watch demo: [Video ](https://youtu.be/7piaPqYl4Fc)
+Click to watch demo: [Video demo](https://youtu.be/7piaPqYl4Fc).
+
 A real-time object detection system that combines **ESP32-S3-CAM** for live video streaming with **YOLO** model for intelligent object detection on a host computer.
 
 ## Project Overview
